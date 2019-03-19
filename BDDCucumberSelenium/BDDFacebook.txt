@@ -1,0 +1,14 @@
+As a Facebook User I want Login so that user can access his/her account.
+Given - User has a facebook account id and password credentials which are correct.
+When - User enter his/her credentials and clicks on Login button.
+Then - The user is able to view his/her profile.
+
+As a Facebook User I want Feed so that user can access his/her account feed.
+Given - User has a facebook account id and password credentials which are correct.
+When - User clicks on Feeds button.
+Then - The user views his/her profile feeds.
+
+As a Facebook User I want Message so that user can chat to his/her friends.
+Given - User has a facebook account id and password credentials and has friends connected.
+When - User enter his/her friends and clicks on Chat button.
+Then - The user starts conversation with his/her friend.

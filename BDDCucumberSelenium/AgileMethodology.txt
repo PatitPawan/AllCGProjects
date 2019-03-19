@@ -1,0 +1,68 @@
+Agile Methodology
+
+AGILE methodology is a practice that promotes continuous iteration of development and testing throughout the software development life-cycle of the project. 
+Both development and testing activities are concurrent unlike the Waterfall model.
+
+* The agile software development emphasizes on four core values -
+1) Individual and team interactions over processes and tools
+2) Working software over comprehensive documentation
+3) Customer collaboration over contract negotiation
+4) Responding to change over following a plan
+
+* Waterfall Model
+
+Development of the software flows sequentially from start point to end point.
+The design process is not broken into an individual models
+The customer can only see the product at the end of the project
+Waterfall model are more secure because they are so plan oriented
+All sorts of project can be estimated and completed.
+Only at the end, the whole product is tested. If the requirement error is found or any changes have to be made, the project has to start from the beginning
+The development process is phased, and the phase is much bigger than iteration. Every phase ends with the detailed description of the next phase.
+Documentation is a top priority and can even use for training staff and upgrade the software with another team
+Only after the development phase, the testing phase is executed because separate parts are not fully functional.
+All features developed are delivered at once after the long implementation phase.
+Testers work separately from developers
+User acceptance is performed at the end of the project.
+Developer does not involve in requirement and planning process. Usually, time delays between tests and coding
+
+*Agile Model
+
+Agile method proposes incremental and iterative approach to software design
+The agile process is broken into individual models that designers work on
+The customer has early and frequent opportunities to look at the product and make decision and changes to the project
+Agile model is considered unstructured compared to the waterfall model
+Small projects can be implemented very quickly. For large projects, it is difficult to estimate the development time.
+Error can be fixed in the middle of the project.
+Development process is iterative, and the project is executed in short (2-4) weeks iterations. Planning is very less.
+Documentation attends less priority than software development
+Every iteration has its own testing phase. It allows implementing regression testing every time new functions or logic are released.
+In agile testing when an iteration end, shippable features of the product is delivered to the customer. New features are usable right after shipment. It is useful when you have good contact with customers.
+Testers and developers work together
+At the end of every sprint, user acceptance is performed
+It requires close communication with developers and together analyse requirements and planning
+
+*Agile Testing Methodology
+
+Scrum, Crystal Methodologies, DSDM(Dynamic S/w Development Method), Feature Driven Development, Lean S/W Development, Extreme Programming.
+
+Scrum 
+
+SCRUM is an agile development method which concentrates specifically on how to manage tasks within a team-based development environment. Basically, Scrum is derived from activity that occurs during a rugby match. 
+Scrum believes in empowering the development team and advocates working in small teams (say- 7 to 9 members). It consists of three roles, and their responsibilities are explained as follows:
+Scrum Master - Master is responsible for setting up the team, sprint meeting and removes obstacles to progress
+Product Owner - The Product Owner creates product backlog, prioritizes the backlog and is responsible for the delivery of the functionality at each iteration
+Scrum Team - Team manages its own work and organizes the work to complete the sprint or cycle
+
+
+
+
+
+
+
+
+
+
+
+
+
+colicadm.nda@nic.in
